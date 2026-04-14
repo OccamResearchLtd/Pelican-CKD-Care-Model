@@ -1,0 +1,97 @@
+﻿State,FirstYear,Age,Stage,Diabetes,N,Mean,SD
+ckd only,first,lt 65,g3a,no baseline t2d,7360,12499.84,28416.28
+ckd only,first,lt 65,g3b,no baseline t2d,2058,14942.44,34060.35
+ckd only,first,lt 65,g4,no baseline t2d,271,18455.81,43359.2
+ckd only,first,lt 65,g3a,baseline t2d,4388,14066.91,31796.97
+ckd only,first,lt 65,g3b,baseline t2d,1711,16470.97,46069.15
+ckd only,first,lt 65,g4,baseline t2d,291,20394.2,39598.43
+ckd only,first,ge 65,g3a,no baseline t2d,19517,12967.31,28795.48
+ckd only,first,ge 65,g3b,no baseline t2d,9505,12805.64,27836.4
+ckd only,first,ge 65,g4,no baseline t2d,1338,14248.84,32499.63
+ckd only,first,ge 65,g3a,baseline t2d,11047,12764.79,26201.64
+ckd only,first,ge 65,g3b,baseline t2d,6132,13115,27464.59
+ckd only,first,ge 65,g4,baseline t2d,926,15252.12,33343.63
+ckd only,subsequent,lt 65,g3a,no baseline t2d,5300,9227.73,23949.18
+ckd only,subsequent,lt 65,g3b,no baseline t2d,1499,9759.64,26082.84
+ckd only,subsequent,lt 65,g4,no baseline t2d,198,10518.62,22731.11
+ckd only,subsequent,lt 65,g3a,baseline t2d,3120,9950.97,20163.24
+ckd only,subsequent,lt 65,g3b,baseline t2d,1180,10633.72,28703.67
+ckd only,subsequent,lt 65,g4,baseline t2d,188,10374.49,20141.8
+ckd only,subsequent,ge 65,g3a,no baseline t2d,14963,9033.82,20663.69
+ckd only,subsequent,ge 65,g3b,no baseline t2d,7472,9237.97,20937.34
+ckd only,subsequent,ge 65,g4,no baseline t2d,1026,10570.62,31684.85
+ckd only,subsequent,ge 65,g3a,baseline t2d,8587,9604.81,21576.43
+ckd only,subsequent,ge 65,g3b,baseline t2d,4804,9622.34,25782.11
+ckd only,subsequent,ge 65,g4,baseline t2d,716,10028.51,25174.82
+mi,first,lt 65,g3a,no baseline t2d,185,77254.09,82951.92
+mi,first,lt 65,g3b,no baseline t2d,88,57019.42,57275.74
+mi,first,lt 65,g4,no baseline t2d,49,88052.26,103016.15
+mi,first,lt 65,g3a,baseline t2d,198,76787.76,88988.53
+mi,first,lt 65,g3b,baseline t2d,182,89628.11,114162.67
+mi,first,lt 65,g4,baseline t2d,108,103793.92,133980.76
+mi,first,ge 65,g3a,no baseline t2d,1281,61433.43,81257.84
+mi,first,ge 65,g3b,no baseline t2d,1004,64892.79,95223.43
+mi,first,ge 65,g4,no baseline t2d,383,69932.13,87932.51
+mi,first,ge 65,g3a,baseline t2d,1105,67654.27,84156.31
+mi,first,ge 65,g3b,baseline t2d,916,68791.44,88921.6
+mi,first,ge 65,g4,baseline t2d,464,80110.12,103498.75
+mi,subsequent,lt 65,g3a,no baseline t2d,123,21162,44034.55
+mi,subsequent,lt 65,g3b,no baseline t2d,57,22734.76,35455.03
+mi,subsequent,lt 65,g4,no baseline t2d,34,35241.64,88301.69
+mi,subsequent,lt 65,g3a,baseline t2d,130,23108.31,51372.09
+mi,subsequent,lt 65,g3b,baseline t2d,129,59657.23,126186.93
+mi,subsequent,lt 65,g4,baseline t2d,74,85230.55,155254.23
+mi,subsequent,ge 65,g3a,no baseline t2d,871,21389,43698.63
+mi,subsequent,ge 65,g3b,no baseline t2d,686,25330.29,47491.62
+mi,subsequent,ge 65,g4,no baseline t2d,258,31665.34,72561.27
+mi,subsequent,ge 65,g3a,baseline t2d,773,26742.84,50253.93
+mi,subsequent,ge 65,g3b,baseline t2d,656,27054.17,55156.93
+mi,subsequent,ge 65,g4,baseline t2d,309,43542.94,85336.26
+str,first,lt 65,g3a,no baseline t2d,147,62968.5,81900.27
+str,first,lt 65,g3b,no baseline t2d,45,52706.08,56725.4
+str,first,lt 65,g4,no baseline t2d,40,145958.48,198127.06
+str,first,lt 65,g3a,baseline t2d,149,67436.14,82211.16
+str,first,lt 65,g3b,baseline t2d,96,88208.77,113327.55
+str,first,lt 65,g4,baseline t2d,67,100591.86,123551.82
+str,first,ge 65,g3a,no baseline t2d,1285,61088.2,88478.64
+str,first,ge 65,g3b,no baseline t2d,760,57835.57,82279.03
+str,first,ge 65,g4,no baseline t2d,205,70305.84,87933.81
+str,first,ge 65,g3a,baseline t2d,892,64877.31,75266.49
+str,first,ge 65,g3b,baseline t2d,687,57971.58,73686.88
+str,first,ge 65,g4,baseline t2d,281,82534.43,127595.4
+str,subsequent,lt 65,g3a,no baseline t2d,96,21132.43,43343.47
+str,subsequent,lt 65,g3b,no baseline t2d,26,22437.99,32233.99
+str,subsequent,lt 65,g4,no baseline t2d,26,56695.1,102830.23
+str,subsequent,lt 65,g3a,baseline t2d,98,43735.52,90452.87
+str,subsequent,lt 65,g3b,baseline t2d,70,47443.84,79330.3
+str,subsequent,lt 65,g4,baseline t2d,46,57913.26,89359.97
+str,subsequent,ge 65,g3a,no baseline t2d,891,22367.08,49799.7
+str,subsequent,ge 65,g3b,no baseline t2d,542,23412.92,45458.69
+str,subsequent,ge 65,g4,no baseline t2d,149,47758.84,108001.95
+str,subsequent,ge 65,g3a,baseline t2d,611,24922.16,54093.5
+str,subsequent,ge 65,g3b,baseline t2d,480,24052.84,43944.35
+str,subsequent,ge 65,g4,baseline t2d,192,35022.03,59390.68
+hf,first,lt 65,g3a,no baseline t2d,256,84291.08,115124.53
+hf,first,lt 65,g3b,no baseline t2d,160,72399.75,101230.98
+hf,first,lt 65,g4,no baseline t2d,100,123821.15,152563.33
+hf,first,lt 65,g3a,baseline t2d,334,80032.67,103282.52
+hf,first,lt 65,g3b,baseline t2d,307,85371.12,120704.49
+hf,first,lt 65,g4,baseline t2d,221,106388.62,140656.3
+hf,first,ge 65,g3a,no baseline t2d,2258,66067.68,105313.02
+hf,first,ge 65,g3b,no baseline t2d,2051,62789.47,86910.91
+hf,first,ge 65,g4,no baseline t2d,873,64910.48,82151.42
+hf,first,ge 65,g3a,baseline t2d,1748,67467.02,81433.27
+hf,first,ge 65,g3b,baseline t2d,1763,63695.76,85338.46
+hf,first,ge 65,g4,baseline t2d,981,73261.24,99558.05
+hf,subsequent,lt 65,g3a,no baseline t2d,166,27829.17,51739.17
+hf,subsequent,lt 65,g3b,no baseline t2d,98,21878.02,30166.85
+hf,subsequent,lt 65,g4,no baseline t2d,73,77895.62,117557.87
+hf,subsequent,lt 65,g3a,baseline t2d,208,32593.6,60650.64
+hf,subsequent,lt 65,g3b,baseline t2d,207,44374.3,68604.12
+hf,subsequent,lt 65,g4,baseline t2d,151,90004.12,183491.54
+hf,subsequent,ge 65,g3a,no baseline t2d,1494,24118.78,44560.9
+hf,subsequent,ge 65,g3b,no baseline t2d,1327,26371.86,51017.77
+hf,subsequent,ge 65,g4,no baseline t2d,580,34961.86,71466.37
+hf,subsequent,ge 65,g3a,baseline t2d,1174,29765.43,52174.16
+hf,subsequent,ge 65,g3b,baseline t2d,1199,28723.07,52529.48
+hf,subsequent,ge 65,g4,baseline t2d,665,39510.35,76188.8

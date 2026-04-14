@@ -1,4 +1,41 @@
-![GitHub all releases](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total)
+![Downloads](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total)
 
 # Pelican-CKD-Care-Model
-This repository contains both an R model with a Shiny interface and an Excel model for CKD.
+
+The CKD Care Model was jointly developed by **Pelican Research Inc** (Canada) and [**Occam Research Ltd** (United Kingdom)](https://www.occamresearch.com/) under contract to **Boehringer Ingelheim Pharmaceutical Inc** (United States).
+
+This repository contains both an R model with a Shiny interface and an Excel model.
+
+## Download the model
+
+The model is available as a **release asset** (a file you can download directly from GitHub – no Git or command line needed).
+
+### Step-by-step (for beginners)
+
+1. **Go to the Releases page** of this repository.  
+   Click here: [Releases](https://github.com/OccamResearchLtd/Pelican-CKD-Care-Model/releases) 
+
+   Or manually:
+   - On the main page of this repository, look for the **“Releases”** link on the right side (usually below the “About” section).
+   - Click it.
+
+2. **Choose the latest release**.
+
+3. **Find the model file** under the “Assets” section.  
+   It will look like a clickable link, for example:  
+   `Source code (zip)` or `Source code (tar.gz)`
+
+4. **Click the file name** – the download will start immediately.  
+   No extra tools or accounts are required.
+
+> **Tip:** The total number of downloads is shown by the badge at the top of this README:  
+> ![Downloads](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total)
+
+### Common questions
+
+**Q: Do I need Git or the command line?**  
+A: No. You only need a web browser.
+
+**Q: The file is a `.zip` / `.tar.gz`. How do I use it?**  
+A: Unzip it with any archive tool (Windows: right-click → Extract All; macOS/Linux: double-click or use `unzip` in terminal).
+
