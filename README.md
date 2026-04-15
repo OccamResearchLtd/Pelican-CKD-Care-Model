@@ -1,4 +1,5 @@
-![Downloads](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total)
+![Downloads](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total?style=plastic&logo=github&label=Total%20Downloads)
+
 
 # Pelican-CKD-Care-Model
 
