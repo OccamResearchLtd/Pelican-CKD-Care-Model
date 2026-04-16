@@ -1,11 +1,25 @@
 ![Downloads](https://img.shields.io/github/downloads/OccamResearchLtd/Pelican-CKD-Care-Model/total?style=plastic&logo=github&label=Total%20Downloads)
-
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Pelican-CKD-Care-Model
 
 The CKD Care Model was jointly developed by **Pelican Research Inc** (Canada) and [**Occam Research Ltd** (United Kingdom)](https://www.occamresearch.com/) under contract to **Boehringer Ingelheim Pharmaceutical Inc** (United States).
 
 This repository contains both an R model with a Shiny interface and an Excel model.
+
+## License
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+Downloading: Users are free to download and use this model. Users can clone the repository to their local machine.
+
+Using: Users can use this model for non-commercial purposes. Users can run the model, and modify it to suit their needs.
+
+Sharing: If users modify this model and want to share it, they must do so under the same CC-BY-NC-SA 4.0 License. They must also give the original authors appropriate credit, provide a link to the original license, and indicate if changes were made.
+
+**Please note that this is a summary and does not cover all the details of the license. Users should refer to the full [CC-BY-NC-SA 4.0][cc-by-nc-sa] License for complete information.**
 
 ## Download the model
 
@@ -45,3 +59,6 @@ A: No. You only need a web browser.
 **Q: The file is a `.zip` / `.tar.gz`. How do I use it?**  
 A: Unzip it with any archive tool (Windows: right-click -> Extract All; macOS/Linux: double-click or use `unzip` in terminal).
 
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-plastic?style=plastic&color=lightgrey
